@@ -1,4 +1,4 @@
-# Gemini Streamlit Chatbot
+# Groq Streamlit Chatbot
 
 A small Streamlit-based chat UI that demonstrates both streaming and non-streaming responses using the Groq API.
 
